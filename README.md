@@ -1,7 +1,7 @@
 # AntiMinefortCosmetics
 Before installing this plugin please read our <a href="https://github.com/TuinboonDev/AntiMinefortCosmetics/tree/main#disclaimer">Disclaimer</a>.
 
-AntiMinefortCosmetics is an open-source plugin that blocks minefort's forced cosmetics plugin.
+AMC is an open-source plugin that blocks minefort's forced cosmetics plugin.
 
 # Disclaimer
 
