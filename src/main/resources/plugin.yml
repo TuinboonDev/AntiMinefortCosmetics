@@ -1,0 +1,15 @@
+name: AntiMinefortCosmetics
+version: '${project.version}'
+main: org.tuinboon.antiminefortcosmetics.AntiMinefortCosmetics
+api-version: '1.19'
+commands:
+  authors:
+    description: Displays credits
+    usage: /authors
+    aliases: ["amc"]
+  github:
+    description: Displays the github link for this plugin
+    usage: /github
+  disclaimer:
+    description: Displays a link to our disclaimer
+    usage: /disclaimer

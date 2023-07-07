@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AntiMinefortCosmetics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AntiMinefortCosmetics_jar</output-path>
+    <root id="archive" name="AntiMinefortCosmetics.jar">
+      <element id="module-output" name="AntiMinefortCosmetics" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
