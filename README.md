@@ -8,5 +8,6 @@ If you have any errors, please contact us using <a href="https://discord.com/use
 # Disclaimer
 
 The use of this plugin may potentially conflict with Minefort's <a href="https://minefort.com/terms-of-service">Terms of service</a>. We are not responsible for any violations of third-party platform terms resulting from your use of this software. By using the software, you agree to assume full responsibility and any associated consequences.
+<p style="color:blue">Make this text blue.</p>
 
 # #RemoveForcedMinefortCosmetics
