@@ -5,4 +5,4 @@ AMC is an open-source, lightweight Minecraft plugin that disables minefort's for
 
 # Disclaimer
 
-Using this software may violate Minefort's <a href="https://minefort.com/terms-of-service">Terms of service</a>.
+The use of this plugin may potentially conflict with the <a href="https://minefort.com/terms-of-service">Terms of Service of Minefort</a>. We are not responsible for any violations of third-party platform terms resulting from your use of this software. By using the software, you agree to assume full responsibility and any associated consequences.
