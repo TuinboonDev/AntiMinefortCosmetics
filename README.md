@@ -3,7 +3,7 @@ Before installing this plugin please read our <a href="https://github.com/Tuinbo
 
 AMC is an open-source, lightweight Minecraft plugin that disables Minefort's forced cosmetics plugin.
 
-If you have any errors please contact us using <a href="https://discord.com/users/584748051814547487">discord</a>
+If you have any errors, please contact us using <a href="https://discord.com/users/584748051814547487">discord</a>.
 
 # Disclaimer
 
