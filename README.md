@@ -1,4 +1,4 @@
-# AntiMinefortCosmetics
+<font color="red"># AntiMinefortCosmetics</font>
 Before installing this plugin please read our <a href="https://github.com/TuinboonDev/AntiMinefortCosmetics/tree/main#disclaimer">Disclaimer</a>.
 
 AMC is an open-source, lightweight, Minecraft plugin that disables Minefort's forced cosmetics plugin on your server.
